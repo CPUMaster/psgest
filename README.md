@@ -1,6 +1,6 @@
-# Quasar App
+# PSGest App
 
-> A Quasar project
+> A Talsint Gallery project
 
 ## Build Setup
 
