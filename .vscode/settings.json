@@ -6,5 +6,7 @@
   "emmet.syntaxProfiles": {
     "vue-html": "html",
     "vue": "html"
-  }
+  },
+  "editor.scrollBeyondLastLine": false,
+  "workbench.colorTheme": "Material Neutral"
 }
