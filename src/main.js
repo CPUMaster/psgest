@@ -4,11 +4,15 @@
 // require(`./themes/app.${__THEME}.styl`)
 // 2. or, use next line to activate DEFAULT QUASAR STYLE
 require(`quasar/dist/quasar.${__THEME}.css`)
-  // ==============================
+// ==============================
 import Vue from 'vue'
 import Quasar from 'quasar'
 import router from './router'
+import VueResource from 'vue-resource'
+
 Vue.use(Quasar) // Install Quasar Framework
+Vue.use(VueResource)
+
 Quasar.start(() => {
   /* eslint-disable no-new */
   new Vue({

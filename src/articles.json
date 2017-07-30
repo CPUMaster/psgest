@@ -1,0 +1,701 @@
+[{
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00085e"
+  },
+  "title": "glycerin, phenylephrine HCl, pramoxine HCl, white petrolatum",
+  "description": "Change Other Device in Female Perineum, External Approach",
+  "image": "http://dummyimage.com/272x278.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00085f"
+  },
+  "title": "NAPROXEN",
+  "description": "Removal of Resurfacing Device from Right Hip Joint, Open Approach",
+  "image": "http://dummyimage.com/263x261.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000860"
+  },
+  "title": "benazepril hydrochloride and hydrochlorothiazide",
+  "description": "Excision of Atrial Septum, Percutaneous Endoscopic Approach, Diagnostic",
+  "image": "http://dummyimage.com/289x295.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000861"
+  },
+  "title": "Aralia Quinquefolia, Humulus Lupulus, Adrenalinum, Cortisone Aceticum, Thyroidinum, Selenium Metallicum, Arsenicum Album",
+  "description": "Replacement of Left Foot Vein with Synthetic Substitute, Open Approach",
+  "image": "http://dummyimage.com/285x255.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000862"
+  },
+  "title": "IRBESARTAN AND HYDROCHLOROTHIAZIDE",
+  "description": "Reposition Left Femoral Shaft, Open Approach",
+  "image": "http://dummyimage.com/286x261.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000863"
+  },
+  "title": "Dexamethasone",
+  "description": "Replacement of Right Occipital Bone with Synthetic Substitute, Percutaneous Approach",
+  "image": "http://dummyimage.com/282x257.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000864"
+  },
+  "title": "oxycodone and acetaminophen",
+  "description": "Destruction of Lower Esophagus, Open Approach",
+  "image": "http://dummyimage.com/251x278.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000865"
+  },
+  "title": "Hydrocortisone",
+  "description": "Occlusion of Left Neck Lymphatic with Extraluminal Device, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/271x253.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000866"
+  },
+  "title": "Naproxen",
+  "description": "Drainage of Right Tympanic Membrane, Via Natural or Artificial Opening",
+  "image": "http://dummyimage.com/273x258.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000867"
+  },
+  "title": "Gabapentin",
+  "description": "Inspection of Lumbar Vertebral Joint, Open Approach",
+  "image": "http://dummyimage.com/297x268.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000868"
+  },
+  "title": "VITAMIN A ACETATE, ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, D-, THIAMINE HYDROCHLORIDE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, LEVOMEFOLIC ACID, CYANOCOBALAMIN, MAGNESIUM OXIDE, CUPRIC SULFATE, and SODIUM FLUORIDE",
+  "description": "Bypass Pancreas to Duodenum, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/261x251.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000869"
+  },
+  "title": "propranolol hydrochloride",
+  "description": "Extirpation of Matter from Left Sublingual Gland, Open Approach",
+  "image": "http://dummyimage.com/278x251.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00086a"
+  },
+  "title": "Octinoxate and Avobenzone",
+  "description": "Supplement Ileocecal Valve with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",
+  "image": "http://dummyimage.com/271x259.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00086b"
+  },
+  "title": "NAPROXEN",
+  "description": "Revision of Internal Fixation Device in Lumbosacral Joint, Percutaneous Approach",
+  "image": "http://dummyimage.com/254x289.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00086c"
+  },
+  "title": "atorvastatin calcium trihydrate",
+  "description": "Excision of Male Perineum, Open Approach, Diagnostic",
+  "image": "http://dummyimage.com/286x292.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00086d"
+  },
+  "title": "gadodiamide",
+  "description": "Removal of Internal Fixation Device from Left Toe Phalanx, Percutaneous Approach",
+  "image": "http://dummyimage.com/267x261.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00086e"
+  },
+  "title": "ZINC OXIDE, TITANIUM DIOXIDE",
+  "description": "Removal of Autologous Tissue Substitute from Right Humeral Head, Open Approach",
+  "image": "http://dummyimage.com/283x293.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00086f"
+  },
+  "title": "Valacyclovir Hydrochloride",
+  "description": "Ultrasonography of Right Knee",
+  "image": "http://dummyimage.com/277x276.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000870"
+  },
+  "title": "Ciprofloxacin",
+  "description": "Monitoring of Intracranial Saturation, Percutaneous Approach",
+  "image": "http://dummyimage.com/271x281.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000871"
+  },
+  "title": "Clindamycin phosphate",
+  "description": "Replacement of Right Vertebral Vein with Synthetic Substitute, Open Approach",
+  "image": "http://dummyimage.com/266x270.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000872"
+  },
+  "title": "Octinoxate, Titanium Dioxide, Zinc Oxide",
+  "description": "Insertion of Other Device into Gastrointestinal Tract, Open Approach",
+  "image": "http://dummyimage.com/278x265.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000873"
+  },
+  "title": "Titanium dioxide and Zinc oxide",
+  "description": "Bypass Left Common Iliac Artery to Right Femoral Artery with Autologous Venous Tissue, Open Approach",
+  "image": "http://dummyimage.com/271x252.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000874"
+  },
+  "title": "Cercidium torreyana",
+  "description": "Dilation of Left Pulmonary Vein with Intraluminal Device, Open Approach",
+  "image": "http://dummyimage.com/296x260.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000875"
+  },
+  "title": "ketoconazole",
+  "description": "Drainage of Right Fallopian Tube with Drainage Device, Via Natural or Artificial Opening",
+  "image": "http://dummyimage.com/261x295.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000876"
+  },
+  "title": "Indigo Carmine",
+  "description": "Control Bleeding in Retroperitoneum, Percutaneous Approach",
+  "image": "http://dummyimage.com/278x289.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000877"
+  },
+  "title": "Australian Pine Beefwood",
+  "description": "Drainage of Left Testis with Drainage Device, Open Approach",
+  "image": "http://dummyimage.com/300x292.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000878"
+  },
+  "title": "Epinephrine",
+  "description": "Drainage of Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach, Diagnostic",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000879"
+  },
+  "title": "Candida albicans",
+  "description": "Extirpation of Matter from Right Cornea, External Approach",
+  "image": "http://dummyimage.com/252x266.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00087a"
+  },
+  "title": "Ketorolac Tromethamine",
+  "description": "Release Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/278x253.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00087b"
+  },
+  "title": "Hydrogen Peroxide 3%",
+  "description": "Excision of Right Lung, Via Natural or Artificial Opening",
+  "image": "http://dummyimage.com/300x254.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00087c"
+  },
+  "title": "Octinoxate and Titanium dioxide",
+  "description": "Transfer Glossopharyngeal Nerve to Accessory Nerve, Open Approach",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00087d"
+  },
+  "title": "Pyrithione Zinc",
+  "description": "Reposition Right Temporal Bone with Internal Fixation Device, Percutaneous Approach",
+  "image": "http://dummyimage.com/259x297.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00087e"
+  },
+  "title": "Famotidine",
+  "description": "Excision of Right Ureter, Via Natural or Artificial Opening, Diagnostic",
+  "image": "http://dummyimage.com/255x292.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00087f"
+  },
+  "title": "House Dust",
+  "description": "Occlusion of Pancreatic Duct, Open Approach",
+  "image": "http://dummyimage.com/280x293.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000880"
+  },
+  "title": "carboxymethylcellulose sodium",
+  "description": "Excision of Prostate, Percutaneous Endoscopic Approach, Diagnostic",
+  "image": "http://dummyimage.com/270x284.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000881"
+  },
+  "title": "Losartan Potassium",
+  "description": "Beam Radiation of Arm Skin using Photons <1 MeV",
+  "image": "http://dummyimage.com/264x259.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000882"
+  },
+  "title": "Nortriptyline Hydrochloride",
+  "description": "Replacement of Left Parotid Duct with Autologous Tissue Substitute, Percutaneous Approach",
+  "image": "http://dummyimage.com/279x274.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000883"
+  },
+  "title": "tetrahydrozoline HCl, Zinc sulfate",
+  "description": "Replacement of Right Mandible with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/297x274.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000884"
+  },
+  "title": "BUPIVACAINE HYDROCHLORIDE",
+  "description": "Revision of Synthetic Substitute in Left Upper Extremity, Percutaneous Approach",
+  "image": "http://dummyimage.com/294x291.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000885"
+  },
+  "title": "Sodium Fluoride",
+  "description": "Drainage of Right Rib, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/281x288.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000886"
+  },
+  "title": "Losartan Potassium",
+  "description": "Occlusion of Upper Artery with Extraluminal Device, Open Approach",
+  "image": "http://dummyimage.com/294x263.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000887"
+  },
+  "title": "ezetimibe and simvastatin",
+  "description": "Drainage of Left Basilic Vein, Percutaneous Endoscopic Approach, Diagnostic",
+  "image": "http://dummyimage.com/296x261.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000888"
+  },
+  "title": "carfilzomib",
+  "description": "Supplement Right Upper Lobe Bronchus with Synthetic Substitute, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/251x289.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000889"
+  },
+  "title": "Bupropion Hydrochloride",
+  "description": "Removal of Nonautologous Tissue Substitute from Pancreatic Duct, Percutaneous Approach",
+  "image": "http://dummyimage.com/274x269.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00088a"
+  },
+  "title": "Triticum Cerebri",
+  "description": "Fusion of Right Finger Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/267x298.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00088b"
+  },
+  "title": "Octinoxate",
+  "description": "Insertion of Internal Fixation Device into Right Metatarsal-Phalangeal Joint, Percutaneous Approach",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00088c"
+  },
+  "title": "Isopropyl Alcohol",
+  "description": "Removal of Synthetic Substitute from Left Pleural Cavity, Percutaneous Approach",
+  "image": "http://dummyimage.com/280x267.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00088d"
+  },
+  "title": "Ropinirole Hydrochloride",
+  "description": "Destruction of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic",
+  "image": "http://dummyimage.com/290x267.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00088e"
+  },
+  "title": "Titanium Dioxide, Zinc Oxide",
+  "description": "Occlusion of Right Posterior Tibial Artery with Extraluminal Device, Open Approach",
+  "image": "http://dummyimage.com/284x255.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00088f"
+  },
+  "title": "Oxygen",
+  "description": "Revision of Synthetic Substitute in Right Metacarpophalangeal Joint, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/273x299.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000890"
+  },
+  "title": "Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",
+  "description": "Reposition Left Tibia with External Fixation Device, Percutaneous Approach",
+  "image": "http://dummyimage.com/284x274.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000891"
+  },
+  "title": "Tamoxifen Citrate",
+  "description": "Revision of Internal Fixation Device in Left Lower Femur, Percutaneous Approach",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000892"
+  },
+  "title": "Cromolyn Sodium",
+  "description": "Fusion of Left Knee Joint with External Fixation Device, Open Approach",
+  "image": "http://dummyimage.com/292x275.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000893"
+  },
+  "title": "TITANIUM DIOXIDE",
+  "description": "Restriction of Left Inguinal Lymphatic, Open Approach",
+  "image": "http://dummyimage.com/250x269.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000894"
+  },
+  "title": "Eucalyptol, menthol, methyl salicylate, thymol",
+  "description": "Supplement Sternum with Nonautologous Tissue Substitute, Open Approach",
+  "image": "http://dummyimage.com/258x299.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000895"
+  },
+  "title": "OCTINOXATE OCTISALATE ALUMINUM HYDROXIDE",
+  "description": "Bypass Left Kidney Pelvis to Bladder with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/260x292.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000896"
+  },
+  "title": "Olanzapine",
+  "description": "Inspection of Nose, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/285x255.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000897"
+  },
+  "title": "hyoscyamine sulfate, methenamine, methylene blue, phenyl salicylate, and sodium phosphate, monobasic, monohydrate",
+  "description": "Reposition Glossopharyngeal Nerve, Open Approach",
+  "image": "http://dummyimage.com/274x296.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000898"
+  },
+  "title": "Acarbose",
+  "description": "Transfusion of Nonautologous Frozen Red Cells into Peripheral Vein, Open Approach",
+  "image": "http://dummyimage.com/258x296.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb000899"
+  },
+  "title": "simethicone",
+  "description": "Restriction of Right Internal Jugular Vein with Extraluminal Device, Percutaneous Approach",
+  "image": "http://dummyimage.com/256x264.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00089a"
+  },
+  "title": "Nitroglycerin",
+  "description": "Insertion of Internal Fixation Device into Left Sternoclavicular Joint, Percutaneous Approach",
+  "image": "http://dummyimage.com/253x267.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00089b"
+  },
+  "title": "sodium phosphate, monobasic, monohydrate and sodium phosphate, dibasic anhydrous",
+  "description": "Drainage of Left Internal Iliac Artery with Drainage Device, Open Approach",
+  "image": "http://dummyimage.com/268x275.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00089c"
+  },
+  "title": "hydroxyzine hydrochloride",
+  "description": "Fragmentation in Cystic Duct, Open Approach",
+  "image": "http://dummyimage.com/288x284.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00089d"
+  },
+  "title": "Calcium carbonate and Magnesium hydroxide",
+  "description": "Extirpation of Matter from Right Internal Mammary Lymphatic, Percutaneous Approach",
+  "image": "http://dummyimage.com/288x264.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00089e"
+  },
+  "title": "hydrocortisone acetate and pramoxine hydrochloride",
+  "description": "Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Cesium 137 (Cs-137)",
+  "image": "http://dummyimage.com/258x290.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb00089f"
+  },
+  "title": "diazepam",
+  "description": "Removal of Nonautologous Tissue Substitute from Right Humeral Head, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/287x255.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a0"
+  },
+  "title": "Quetiapine Fumarate",
+  "description": "Bypass Left Cephalic Vein to Upper Vein with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/267x261.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a1"
+  },
+  "title": "Citalopram",
+  "description": "Revision of Synthetic Substitute in Left Metatarsal, Percutaneous Approach",
+  "image": "http://dummyimage.com/258x277.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a2"
+  },
+  "title": "Sodium Fluoride",
+  "description": "Revision of Nonautologous Tissue Substitute in Right Tympanic Membrane, Via Natural or Artificial Opening",
+  "image": "http://dummyimage.com/288x299.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a3"
+  },
+  "title": "CHAMOMILLA",
+  "description": "Release Right Hand Muscle, Percutaneous Approach",
+  "image": "http://dummyimage.com/257x268.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a4"
+  },
+  "title": "Sertraline Hydrochloride",
+  "description": "Introduction of Antiarrhythmic into Mouth and Pharynx, Percutaneous Approach",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a5"
+  },
+  "title": "Sertraline Hydrochloride",
+  "description": "Removal of Spacer from Left Sternoclavicular Joint, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/270x263.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a6"
+  },
+  "title": "AVOBENZONE, OCTOCRYLENE, OXYBENZONE",
+  "description": "Excision of Sciatic Nerve, Open Approach, Diagnostic",
+  "image": "http://dummyimage.com/276x279.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a7"
+  },
+  "title": "Pyrithione Zinc",
+  "description": "Excision of Right Upper Leg, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/289x271.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a8"
+  },
+  "title": "clindamycin hydrochloride",
+  "description": "Removal of Synthetic Substitute from Ureter, Via Natural or Artificial Opening",
+  "image": "http://dummyimage.com/285x275.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008a9"
+  },
+  "title": "Neomycin Sulfate, Polymyxin B Sulfate, and Pramoxine Hydrochloride",
+  "description": "Magnetic Resonance Imaging (MRI) of Acoustic Nerves",
+  "image": "http://dummyimage.com/283x275.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008aa"
+  },
+  "title": "NUTMEG, ASAFETIDA, STRYCHNOS IGNATII SEED, and LYCOPODIUM CLAVATUM SPORE",
+  "description": "Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts",
+  "image": "http://dummyimage.com/275x287.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008ab"
+  },
+  "title": "Acyclovir",
+  "description": "Replacement of Right Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Open Approach",
+  "image": "http://dummyimage.com/282x250.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008ac"
+  },
+  "title": "Duloxetine hydrochloride",
+  "description": "Low Dose Rate (LDR) Brachytherapy of Mediastinum using Iodine 125 (I-125)",
+  "image": "http://dummyimage.com/274x258.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008ad"
+  },
+  "title": "enoxaparin sodium",
+  "description": "Restriction of Anus with Intraluminal Device, External Approach",
+  "image": "http://dummyimage.com/257x298.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008ae"
+  },
+  "title": "Heparin Sodium",
+  "description": "Excision of Head, Percutaneous Approach",
+  "image": "http://dummyimage.com/271x300.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008af"
+  },
+  "title": "Morphine Sulfate",
+  "description": "Occlusion of Left Common Carotid Artery with Bioactive Intraluminal Device, Open Approach",
+  "image": "http://dummyimage.com/253x292.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b0"
+  },
+  "title": "CETAPHIL",
+  "description": "Fusion of Left Metacarpocarpal Joint, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/269x271.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b1"
+  },
+  "title": "Oxytocin",
+  "description": "Restriction of Right Basilic Vein, Percutaneous Approach",
+  "image": "http://dummyimage.com/263x272.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b2"
+  },
+  "title": "SODIUM BICARBONATE",
+  "description": "Reposition Left Glenoid Cavity with Internal Fixation Device, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/274x273.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b3"
+  },
+  "title": "American Cockroach",
+  "description": "Excision of Rectum, Via Natural or Artificial Opening, Diagnostic",
+  "image": "http://dummyimage.com/280x271.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b4"
+  },
+  "title": "Cephalexin",
+  "description": "Bypass Right Lacrimal Duct to Nasal Cavity with Synthetic Substitute, Percutaneous Approach",
+  "image": "http://dummyimage.com/281x287.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b5"
+  },
+  "title": "Air",
+  "description": "Revision of Autologous Tissue Substitute in Cervicothoracic Vertebral Disc, Percutaneous Approach",
+  "image": "http://dummyimage.com/262x261.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b6"
+  },
+  "title": "fluorouracil",
+  "description": "Computerized Tomography (CT Scan) of Parathyroid Glands",
+  "image": "http://dummyimage.com/281x263.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b7"
+  },
+  "title": "PHYTOLACCA AMERICANA ROOT",
+  "description": "Reattachment of Left Neck Muscle, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/265x264.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b8"
+  },
+  "title": "Pantoprazole Sodium",
+  "description": "Introduction of Nutritional Substance into Lower GI, Via Natural or Artificial Opening Endoscopic",
+  "image": "http://dummyimage.com/273x281.jpg/ff4444/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008b9"
+  },
+  "title": "MENTHOL",
+  "description": "Removal of Autologous Tissue Substitute from Right Sacroiliac Joint, Percutaneous Approach",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008ba"
+  },
+  "title": "Phenylephrine HCl",
+  "description": "Reposition Cervicothoracic Vertebral Joint with Internal Fixation Device, External Approach",
+  "image": null
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008bb"
+  },
+  "title": "Echinacea (Angustifolia), Hydrastis canadensis, Lomatium dissectum, Myrrha, Nasturtium aquaticum, Tabebuia impetiginosa, Propolis, Glandula suprarenalis suis,",
+  "description": "Drainage of Left Thorax Tendon, Percutaneous Approach",
+  "image": "http://dummyimage.com/293x250.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008bc"
+  },
+  "title": "NARDOSTACHYS CHINENSIS WHOLE",
+  "description": "Drainage of Left Buttock, Open Approach",
+  "image": "http://dummyimage.com/266x277.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008bd"
+  },
+  "title": "Salicylic acid",
+  "description": "Bypass Thoracic Aorta, Descending to Pulmonary Trunk with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/291x278.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008be"
+  },
+  "title": "Quetiapine Fumarate",
+  "description": "Inspection of Left Hand, Open Approach",
+  "image": "http://dummyimage.com/272x267.jpg/cc0000/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008bf"
+  },
+  "title": "ENALAPRIL MALEATE",
+  "description": "Insertion of Infusion Device into Left External Iliac Vein, Open Approach",
+  "image": "http://dummyimage.com/252x264.jpg/5fa2dd/ffffff"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008c0"
+  },
+  "title": "DIMETHICONE",
+  "description": "Division of Right Ulna, Percutaneous Endoscopic Approach",
+  "image": "http://dummyimage.com/281x269.jpg/dddddd/000000"
+}, {
+  "id": {
+    "$oid": "597a4e0cfc13ae1ccb0008c1"
+  },
+  "title": "Hydrocodone Bitartrate and Acetaminophen",
+  "description": "Occlusion of Thoracic Duct with Extraluminal Device, Percutaneous Approach",
+  "image": "http://dummyimage.com/258x284.jpg/dddddd/000000"
+}]

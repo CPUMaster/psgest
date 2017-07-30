@@ -29,8 +29,8 @@
         </div>
       </div>
   
-      <router-view></router-view>
     </q-layout>
+      <router-view></router-view>
   </div>
 </template>
 
