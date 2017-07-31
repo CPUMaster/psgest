@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Articles</h1>
+    <h1>Articles - 0</h1>
     <div class="layout-padding">
       <p class="caption">Scroll down to see it in action.</p>
   
