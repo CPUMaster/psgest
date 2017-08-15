@@ -8,5 +8,5 @@
     "vue": "html"
   },
   "editor.scrollBeyondLastLine": false,
-  "workbench.colorTheme": "Material Neutral"
+  "workbench.colorTheme": "Material Theme"
 }
