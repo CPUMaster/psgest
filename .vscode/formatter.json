@@ -12,13 +12,16 @@
     "jslint_happy": false,
     "space_after_anon_function": false,
     "keep_array_indentation": false,
-    "space_before_conditional": true,
+    "space_before_conditional": false,
     "unescape_strings": false,
     "wrap_line_length": 0,
     "e4x": false,
     "end_with_newline": true,
     "comma_first": false,
-    "brace_style": "collapse-preserve-inline"
+    "brace_style": "collapse",
+    "eval_code": false,
+    "wrap-line-length": 0,
+    "wrap-attributes": "force-aligned"
   },
   "css": {
     "indent_size": 2,
