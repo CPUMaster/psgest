@@ -7,6 +7,10 @@
     "vue-html": "html",
     "vue": "html"
   },
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+  },
   "editor.scrollBeyondLastLine": false,
   "workbench.colorTheme": "Material Theme"
 }

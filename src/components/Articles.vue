@@ -44,7 +44,6 @@ export default {
   }
 }
 </script>
-
 <style lang="stylus">
 .card
   max-width 300px
