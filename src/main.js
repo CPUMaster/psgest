@@ -9,9 +9,11 @@ import Vue from 'vue'
 import Quasar from 'quasar'
 import router from './router'
 import VueResource from 'vue-resource'
+import _ from 'lodash'
 
 Vue.use(Quasar) // Install Quasar Framework
 Vue.use(VueResource)
+Vue.use(_)
 
 Quasar.start(() => {
   /* eslint-disable no-new */

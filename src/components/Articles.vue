@@ -5,18 +5,18 @@
       <p class="caption">Scroll down to see it in action.</p>
   
       <br>
-      <q-infinite-scroll :handler="refresher">
-        <p v-for="(item, index) in items" class="caption" :key="index">
-          <span class="label bg-secondary text-white shadow-1">
-            {{ index + 1 }}
-          </span>
-          <!-- {{ item.title }} -->
-        </p>
-  
-        <div class="row justify-center" style="margin-bottom: 50px;">
-          <spinner name="dots" slot="message" :size="40"></spinner>
+      <div v-for="article in articles" class="caption" :key="article.id">
+        <div class="card bg-teal text-white">
+          <img :src="article.image" class="responsive">
+          <div class="card-content">
+            <h4>{{ article.title }}</h4>
+            <h7>{{ article.id }}</h7>
+            <p>{{ this._.truncate(article.description, { 'length': 80, 'separator': '' })}}</p>
+          </div>
         </div>
-      </q-infinite-scroll>
+  
+      </div>
+  
     </div>
   </div>
 </template>
@@ -25,24 +25,16 @@
 export default {
   data() {
     return {
-      items: [],
       articles: []
     }
   },
   methods: {
-    refresher(index, done) {
-      this.results()
-      console.log(this.articles.lengh)
-    },
-    results() {
-      return this.articles
-    }
   },
   computed: {
   },
   mounted() {
     // GET /someUrl
-    this.$http.get('https://jsonplaceholder.typicode.com/photos').then(response => {
+    this.$http.get('http://localhost:3000/articles/').then(response => {
       // get body data
       this.articles = response.body.slice(0, 20)
       console.log(this.articles)
@@ -53,6 +45,7 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="stylus">
+.card
+  max-width 300px
 </style>
