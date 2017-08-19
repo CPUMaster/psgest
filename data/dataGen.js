@@ -6,7 +6,8 @@ var objectTemplate = {
   'id': '@faker.random.uuid()',
   'title': '@faker.name.findName()',
   'description': '@faker.lorem.words(80)',
-  'image': '@faker.image.nature(300, 300)',
+  'image': '@faker.random.image(400)',
+  'random': '@faker.random.arrayElement([1,2,3,4,5,6,7,8,9,10])',
   'date': '@faker.date.recent()'
 
 }
@@ -21,8 +22,8 @@ while(len--) {
   var fakeJSON = JsonFaker.process(objectTemplate) // returns object
   Obj.articles.push(fakeJSON)
 }
-
-// Obj.articles.push(articles)
+console.log(fakeJSON)
+  // Obj.articles.push(articles)
 
 fs.writeFile('./db.json', JSON.stringify(Obj), function(err) {
 

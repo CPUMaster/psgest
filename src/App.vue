@@ -3,7 +3,7 @@
   <div id="q-app">
     <q-layout>
   
-      <q-drawer ref="drawer" swipe-only>
+      <q-drawer slot="header" ref="drawer" swipe-only>
         <div class="list platform-delimiter">
           <div class="list-header">
             <h4>Menu</h4>
@@ -21,7 +21,7 @@
         <q-toolbar-title :padding="2">
           Galerie Talsint
         </q-toolbar-title>
-        <div class="nav-links">  
+        <div class="nav-links">
           <router-link to="/" tag="button">
             <i>home</i> Home</router-link>
           <router-link to="/articles" tag="button">
@@ -29,8 +29,16 @@
         </div>
       </div>
   
+      <div class="layout-view">  
+        <div class="layout-padding">
+          <router-view class="layout-view"></router-view>
+        </div>
+      </div>
+  
+      <div slot="footer" class=" toolbar dark">
+        Footer
+      </div>
     </q-layout>
-      <router-view></router-view>
   </div>
 </template>
 

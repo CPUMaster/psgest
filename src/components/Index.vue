@@ -1,7 +1,10 @@
 <template>
-  <q-layout>
-  <h1>Home</h1>
-  </q-layout>
+
+    <div class="front" slot="content">
+      <h1>Home</h1>
+  
+    </div>
+
 </template>
 
 <script>
